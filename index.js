@@ -52,7 +52,7 @@ function Animation(animationButton){
 
  setTimeout(function(){
   activeButton.classList.remove("pressed");
- },1000);
+ },10);
 
 
 
